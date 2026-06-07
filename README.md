@@ -219,7 +219,6 @@ Realtime messaging
 Clean chat interface
 Responsive layout
 ```
-```html
 <a href="https://ting.indevstudio.dev">
   <img src="https://img.shields.io/badge/Website-TING-7c3aed?style=for-the-badge&logo=googlemessages&logoColor=white"/>
 </a>

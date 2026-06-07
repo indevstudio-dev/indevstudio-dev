@@ -1,4 +1,3 @@
-````md
 <!-- INDEVSTUDIO GitHub Organization README -->
 
 <div align="center">

@@ -220,6 +220,7 @@ Clean chat interface
 Responsive layout
 ```
 <a href="https://ting.indevstudio.dev">
+  <img src="https://img.shields.io/badge/Website-ting.indevstudio.dev-00f7ff?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
 ---

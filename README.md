@@ -79,7 +79,7 @@ It is a long-term product ecosystem.
 
 ### ⚡ Infexjay
 
-Founder, developer, engineer, product builder, and full-stack creator.
+Co-founder, developer, engineer, product builder, and full-stack creator.
 
 Focus areas:
 
@@ -97,16 +97,18 @@ Developer tools
 
 ### 🧠 David Ndubuisi
 
-Co-founder, developer, engineer, and product builder.
+Co-founder, developer, engineer, and product builder, and full-stack creator.
 
 Focus areas:
 
 ```txt
-Software development
-System design
-Product development
-Engineering execution
-Digital infrastructure
+Web development
+Android development
+Backend systems
+Security engineering
+Product architecture
+Experimental systems
+Developer tools
 ```
 
 ---

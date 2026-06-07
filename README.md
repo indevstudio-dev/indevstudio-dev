@@ -219,6 +219,8 @@ Realtime messaging
 Clean chat interface
 Responsive layout
 ```
+<a href="https://ting.indevstudio.dev">
+</a>
 
 ---
 
@@ -238,7 +240,7 @@ Practical protection focus
 
 ---
 
-### 🎮 Infex Game Booster
+### 🎮 Indev Game Booster
 
 An Android gaming optimization project focused on performance, game profiles, and a futuristic gaming interface.
 

@@ -20,11 +20,12 @@
   <img src="https://img.shields.io/badge/Website-indevstudio.dev-00f7ff?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
-<a href="https://github.com/infex1rn">
-  <img src="https://img.shields.io/badge/Founder-INFEXJAY-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="https://github.com/infexjay">
   <img src="https://img.shields.io/badge/Founder-DAVID-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/infex1rn">
+  <img src="https://img.shields.io/badge/Founder-INFEXJAY-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <img src="https://img.shields.io/badge/Status-Building%20The%20Future-7c3aed?style=for-the-badge&logo=rocket&logoColor=white"/>

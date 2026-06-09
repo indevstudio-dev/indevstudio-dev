@@ -442,4 +442,3 @@ Shipping real products
 <i>Built by David and Infexjay.</i>
 
 </div>
-```
